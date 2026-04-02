@@ -1,5 +1,5 @@
 # Image Retrieval Project
-
+BLha
 ## Overview
 This project builds an image retrieval system using a fine-tuned ResNet-18 encoder and FAISS-based similarity search. A web app allows users to upload an image and retrieve visually similar images from the database.
 
