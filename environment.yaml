@@ -1,0 +1,15 @@
+name: w7-image-retrieval
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - cpuonly
+  - numpy
+  - pillow
+  - tqdm
+  - streamlit
+  - faiss-cpu
+  - pip
